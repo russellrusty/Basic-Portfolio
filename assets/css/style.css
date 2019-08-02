@@ -1,0 +1,58 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.container{
+    
+    padding-left: 32px;
+    color: white;
+    background: #20B2AA;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #59d5d8;
+    height: 150px;
+    padding: 4px;
+}
+
+header h1 {
+
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 50px;
+}
+
+header h2 {
+    text-align: center;
+    font-variant: small-caps;
+
+}
+
+.menus {
+    padding: 0 10px 0 10px;
+    text-align: center;
+    line-height: 32px;
+    margin-top: 15px;
+    display: inline;
+
+
+}
+
+
+
+
+.about{
+    float: right;
+    padding-right: 250px;
+    
+}
+.portfolio{
+    float: right ;
+}
+.contact{
+    float: right;
+}
+
+.bio{}
